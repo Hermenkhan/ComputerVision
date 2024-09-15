@@ -14,7 +14,10 @@ These images are placeholders for potential future applications in gender classi
 
 # How to Run the Script
 first clone the repository using git clone 
+
 go into the folder using cd 
+
 Run the Python script using 
+
 python Files/eda_using_bivariate_analysis.py
 
