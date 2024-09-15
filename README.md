@@ -17,7 +17,9 @@ first clone the repository using git clone
 
 go into the folder using cd 
 
+Install necessary dependencies in virtual env like pip install pandas seaborn
+
 Run the Python script using 
 
-python Files/eda_using_bivariate_analysis.py
+ComputerVision/eda_using_bivariate_analysis.py
 
